@@ -1,4 +1,1 @@
-{
-  "name": "test preset",
-  "version": 1
-}
+{ "brushes": [ { "name": "test preset", "color": "#2563eb", "size": 4, "opacity": 1, "stabilizer": 10, "lineCap": "round" } ] }
